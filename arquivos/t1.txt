@@ -1,0 +1,5 @@
+
+no gedit lgum conteúdo dentro do arquivo. Para gerar o hash deste arquivo
+usando o algoritmo sha256, pode ser usado o seguinte comando:
+
+openssl dgst -sha256 t1.txt
